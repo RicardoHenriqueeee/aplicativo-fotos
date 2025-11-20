@@ -1,0 +1,52 @@
+{
+  "photos": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "Montanha ao amanhecer",
+      "description": "Foto de montanha ao amanhecer.",
+      "url": "https://picsum.photos/id/1015/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1015/150/100"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "Floresta ao fundo",
+      "description": "Floresta densa com luz suave.",
+      "url": "https://picsum.photos/id/1011/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1011/150/100"
+    },
+    {
+      "albumId": 2,
+      "id": 3,
+      "title": "Cidade à noite",
+      "description": "Cidade iluminada durante a noite.",
+      "url": "https://picsum.photos/id/1010/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1010/150/100"
+    },
+    {
+      "albumId": 2,
+      "id": 4,
+      "title": "Ponte sobre o rio",
+      "description": "Ponte atravessando um grande rio.",
+      "url": "https://picsum.photos/id/1003/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1003/150/100"
+    },
+    {
+      "albumId": 3,
+      "id": 5,
+      "title": "Lago tranquilo",
+      "description": "Lago com reflexo das árvores.",
+      "url": "https://picsum.photos/id/1005/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1005/150/100"
+    },
+    {
+      "albumId": 3,
+      "id": 6,
+      "title": "Praia ao entardecer",
+      "description": "Praia com céu alaranjado.",
+      "url": "https://picsum.photos/id/1016/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1016/150/100"
+    }
+  ]
+}
